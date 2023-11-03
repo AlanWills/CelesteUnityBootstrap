@@ -19,11 +19,11 @@ namespace CelesteEditor.Bootstrap
                 new string[]
                 {
                     // To add
+					"com.unity.nuget.newtonsoft-json",
                     "git@github.com:AlanWills/UnityRuntimeInspector.git",
                     "git@github.com:AlanWills/UnityNativeShare.git",
                     "git@github.com:AlanWills/UnityNativeFilePicker.git",
-					"git@github.com:AlanWills/CelesteUnity.git",
-					"com.unity.nuget.newtonsoft-json"
+					"git@github.com:AlanWills/CelesteUnity.git"
                 },
                 new string[]
                 {
