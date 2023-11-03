@@ -1,0 +1,11 @@
+{
+  "name": "com.celestegames.celestebootstrap",
+  "displayName": "Celeste Bootstrap",
+  "version": "1.0.0",
+  "description": "A simple tool to automate integrating the Celeste package.",
+  "unity": "2019.1",
+  "dependencies": { },
+  "author": {
+    "name": "Alan Wills"
+  }
+}
