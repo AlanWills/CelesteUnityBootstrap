@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEditor.PackageManager;
 
-namespace CelesteEditor.UnityProject
+namespace CelesteEditor.Bootstrap
 {
     public static class SetUpUnity
     {
